@@ -1,0 +1,9 @@
+This is a basic react boilerplate using webpack.
+
+Requirements:
+-- node
+-- webpack -g
+
+Run Commands
+  -- webpack -w
+  -- node server.js
