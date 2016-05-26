@@ -9,14 +9,13 @@ var React = require('react');
 //
 //     return (
 //       <div>
-//         <h4> It's {temp} degress in {location}</h4>
+        // <h4> It's {temp} degress in {location}</h4>
 //       </div>
 //     );
 //   }
 // });
 
 var WeatherMessage = ({temp, location}) => {
-
   return (
     <div>
       <h4> It's {temp} degrees in {location}</h4>
