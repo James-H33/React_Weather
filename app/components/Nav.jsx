@@ -27,6 +27,7 @@ var Nav = React.createClass({
       window.location.hash = '#/?location=' + encodedLocation;
     }
   },
+  
   render: function() {
     return (
       <div className="top-bar">
